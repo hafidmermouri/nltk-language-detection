@@ -44,6 +44,7 @@ def _calc_probability(most, secode_most) :
 
 if __name__=='__main__':
 
+    #text snipet from http://latta.blog.lemonde.fr/2017/02/08/goal-line-technology-un-nouveau-bug-contre-son-camp/
     text = '''
     Le match de Ligue 1 Bordeaux-Rennes, ce week-end, a été le théâtre du troisième incident significatif
     lié à l’usage de la Goal Line Technology depuis sa mise en œuvre dans divers championnats depuis deux saisons.
