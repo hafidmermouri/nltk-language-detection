@@ -15,4 +15,4 @@ just give the script a brunch of text to analyse and the script will :
   - Calculate the relevancy level of the selected language
 
 ## Documentation
-If you know how this script works, just have a look at this blog post titled [Detection de langue en NLP](https://www.le-geek.com/detection-de-langue-en-nlp-natural-language-processing/) i wrote (in french) on my personnal blog [le-geek.com](https://www.le-geek.com/)
+If you want to know how this script works, just have a look at this blog post titled [Detection de langue en NLP](https://www.le-geek.com/detection-de-langue-en-nlp-natural-language-processing/) i wrote (in french) on my personnal blog [le-geek.com](https://www.le-geek.com/)
